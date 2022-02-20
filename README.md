@@ -1,4 +1,4 @@
-# DesafioAcademiaCapgemini
+
 
 Desafio realizado utilizando a tecnologia Java usando Orientação a Objetos.
 Para rodar o código, basta apenas fazer um git bash do repositório e inicializá-lo em uma IDE que suporte a linguagem Java; 
